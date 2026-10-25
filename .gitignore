@@ -1,0 +1,24 @@
+# Keil 编译产物
+code/*/Output/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.lst
+*.map
+*.htm
+*.lnp
+*.dep
+*.sct
+*.uvguix.*
+*.build_log.htm
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.rar
+*.zip
+
+# 本地配置
+*.local
